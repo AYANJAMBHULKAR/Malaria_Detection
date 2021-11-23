@@ -28,7 +28,7 @@ Malaria is a deadly, infectious mosquito-borne disease caused by Plasmodium para
 
 
 <p>
-  Infected
+  <h3>Infected</h3>
 <img src="Screenshots\11.jpg"/>
 </p>
 
